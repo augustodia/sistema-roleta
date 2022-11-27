@@ -1,0 +1,156 @@
+{
+  "alunos": [
+    {
+      "nome": "Gustavo",
+      "desafiosCumprir": 0,
+      "id": 2,
+      "pontos": 0
+    },
+    {
+      "nome": "Daiane",
+      "desafiosCumprir": 5,
+      "id": 3,
+      "pontos": 0
+    },
+    {
+      "nome": "Luiz Augusto",
+      "desafiosCumprir": 0,
+      "id": 4
+    },
+    {
+      "nome": "Sabrina",
+      "desafiosCumprir": 0,
+      "id": 5
+    }
+  ],
+  "dadosTrimestre": [
+    {
+      "idAlunoJogando": 3,
+      "id": 1
+    }
+  ],
+  "pontos": [
+    {
+      "idAluno": 1,
+      "feito": "Bora viajar",
+      "pontuacao": 5,
+      "id": 1
+    },
+    {
+      "idAluno": 4,
+      "feito": "Bora viajar",
+      "pontuacao": 5,
+      "id": 2
+    },
+    {
+      "idAluno": 1,
+      "feito": "Desafio imediato",
+      "pontuacao": 1.25,
+      "id": 3
+    },
+    {
+      "idAluno": 3,
+      "feito": "Desafio imediato",
+      "pontuacao": 1.25,
+      "id": 4
+    },
+    {
+      "idAluno": 2,
+      "feito": "Desafio imediato",
+      "pontuacao": 1.25,
+      "id": 5
+    },
+    {
+      "idAluno": 4,
+      "feito": "Desafio imediato",
+      "pontuacao": 1.25,
+      "id": 6
+    },
+    {
+      "idAluno": 2,
+      "feito": "Desafio imediato",
+      "pontuacao": 1.25,
+      "id": 7
+    },
+    {
+      "idAluno": 1,
+      "feito": "Desafio Imediato",
+      "pontuacao": 5,
+      "id": 8
+    },
+    {
+      "idAluno": 1,
+      "feito": "Pegunta Fácil",
+      "pontuacao": 5,
+      "id": 9
+    },
+    {
+      "idAluno": 4,
+      "feito": "Rolimã",
+      "pontuacao": 10000,
+      "id": 10
+    }
+  ],
+  "itensRoleta": [
+    {
+      "id": 1,
+      "text": "Desafio",
+      "pontuacao": 15,
+      "textFillStyle": "#fff",
+      "fillStyle": "#000",
+      "cumprirDepois": true
+    },
+    {
+      "text": "Desafio imediato",
+      "pontuacao": "5",
+      "textFillStyle": "#ffffff",
+      "fillStyle": "#3c3939",
+      "cumprirDepois": true,
+      "id": 2
+    },
+    {
+      "text": "Bora viajar",
+      "pontuacao": 10,
+      "textFillStyle": "#ffffff",
+      "fillStyle": "#884507",
+      "cumprirDepois": true,
+      "id": 3
+    },
+    {
+      "text": "Pegunta Fácil",
+      "pontuacao": 5,
+      "textFillStyle": "#ffffff",
+      "fillStyle": "#104f03",
+      "cumprirDepois": true,
+      "id": 4
+    },
+    {
+      "text": "Rolimã",
+      "pontuacao": 10000,
+      "textFillStyle": "#000000",
+      "fillStyle": "#ff0000",
+      "cumprirDepois": true,
+      "id": 5
+    }
+  ],
+  "desafiosCumprir": [
+    {
+      "idAluno": 2,
+      "nome": "Rolimã",
+      "pontuacao": 10000,
+      "id": 1
+    },
+    {
+      "idAluno": 2,
+      "nome": "Pegunta Fácil",
+      "pontuacao": 5,
+      "id": 2
+    },
+    {
+      "idAluno": 2,
+      "nome": "Pegunta Fácil",
+      "pontuacao": 5,
+      "id": 3
+    }
+  ]
+}

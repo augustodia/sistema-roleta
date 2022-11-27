@@ -1,0 +1,141 @@
+{
+  "alunos": [
+    {
+      "nome": "Luiz Augusto",
+      "id": 1
+    }
+  ],
+  "dadosTrimestre": [
+    {
+      "idAlunoJogando": 1,
+      "id": 1
+    }
+  ],
+  "pontos": [
+    {
+      "idAluno": 1,
+      "feito": "Desafio",
+      "pontuacao": 20,
+      "id": 1
+    }
+  ],
+  "itensRoleta": [
+    {
+      "text": "Pergunta Difícil",
+      "pontuacao": 16,
+      "textFillStyle": "#ffffff",
+      "fillStyle": "#ae0a0a",
+      "cumprirDepois": true,
+      "passaVez": false,
+      "id": 1
+    },
+    {
+      "text": "Pergunta Média",
+      "pontuacao": 10,
+      "textFillStyle": "#000000",
+      "fillStyle": "#d28a0f",
+      "cumprirDepois": true,
+      "passaVez": false,
+      "id": 2
+    },
+    {
+      "text": "Pergunta Fácil",
+      "pontuacao": 6,
+      "textFillStyle": "#000000",
+      "fillStyle": "#03a50e",
+      "cumprirDepois": true,
+      "passaVez": false,
+      "id": 3
+    },
+    {
+      "text": "Trazer um amigo",
+      "pontuacao": 30,
+      "textFillStyle": "#ffffff",
+      "fillStyle": "#0e6286",
+      "cumprirDepois": true,
+      "passaVez": false,
+      "id": 4
+    },
+    {
+      "text": "Bora viajar",
+      "pontuacao": 10,
+      "textFillStyle": "#ffffff",
+      "fillStyle": "#691089",
+      "cumprirDepois": true,
+      "passaVez": false,
+      "id": 5
+    },
+    {
+      "text": "Fazer um vídeo Insta",
+      "pontuacao": 20,
+      "textFillStyle": "#000000",
+      "fillStyle": "#cb1a73",
+      "cumprirDepois": true,
+      "passaVez": false,
+      "id": 6
+    },
+    {
+      "text": "Desafio imediato",
+      "pontuacao": 12,
+      "textFillStyle": "#000000",
+      "fillStyle": "#098b4c",
+      "cumprirDepois": true,
+      "passaVez": false,
+      "id": 7
+    },
+    {
+      "text": "Ganhe 5 pontos",
+      "pontuacao": 5,
+      "textFillStyle": "#000000",
+      "fillStyle": "#50da10",
+      "cumprirDepois": true,
+      "passaVez": false,
+      "id": 8,
+      "ganhePontos": true
+    },
+    {
+      "text": "Desafio",
+      "pontuacao": 20,
+      "textFillStyle": "#ffffff",
+      "fillStyle": "#000000",
+      "cumprirDepois": true,
+      "passaVez": false,
+      "id": 9
+    },
+    {
+      "text": "Algo na lição",
+      "pontuacao": 6,
+      "textFillStyle": "#ffffff",
+      "fillStyle": "#e60acc",
+      "cumprirDepois": true,
+      "passaVez": false,
+      "id": 10
+    },
+    {
+      "text": "Explique a tirinha",
+      "pontuacao": 5,
+      "textFillStyle": "#ffffff",
+      "fillStyle": "#0b098b",
+      "cumprirDepois": true,
+      "passaVez": false,
+      "id": 11
+    },
+    {
+      "text": "Passa a vez",
+      "pontuacao": 0,
+      "textFillStyle": "#000000",
+      "fillStyle": "#a8a4a4",
+      "cumprirDepois": true,
+      "passaVez": true,
+      "id": 12
+    }
+  ],
+  "desafiosCumprir": [
+    {
+      "idAluno": 1,
+      "nome": "Pergunta Fácil",
+      "pontuacao": 6,
+      "id": 1
+    }
+  ]
+}
